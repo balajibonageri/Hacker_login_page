@@ -5,7 +5,7 @@
 
   <h2 align="center">Hacker Login Page</h2>
 
- GameHive is a fully responsive esports gaming website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+Fully responsive hacker theme login website, <br />Responsive for all devices, build using HTML and CSS.
 
   <a href="https://hacker-login-page.vercel.app/"><strong>➥ Live Demo</strong></a>
 
